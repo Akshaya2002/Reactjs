@@ -1,0 +1,70 @@
+h1.mr-5.mt-5 {
+  font-size: 83px;
+  margin-bottom: 50px;
+  line-height: 0.91;
+  z-index: 90;
+  margin-top: 0.7em !important;
+  margin-left: 15px;
+  font-family: "SC Sans Web", SCSansRegular, Helvetica, Arial, sans-serif;
+  color: rgb(54, 70, 85);
+}
+.mt-5,
+.my-5 {
+  margin-top: 0rem !important;
+}
+p.mr-6.mt-6 {
+  font-size: 27px;
+  margin-bottom: 94px;
+  line-height: 1.32;
+  margin-top: 2em;
+  margin-left: -1em;
+}
+.picBox {
+  margin-bottom: 20px;
+  min-height: 34px;
+}
+h2 {
+  padding-bottom: 16px;
+  font-weight: 300;
+  line-height: 1.32;
+  font-size: 24px;
+}
+.content {
+  min-height: 87px;
+}
+button.homePage__ExploreApiButton-sc-4qvmg-6.gElhun {
+  border: 1px solid rgb(58, 181, 74);
+  color: #fff !important;
+  padding: 0px 42px;
+  background: rgb(58, 181, 74);
+  line-height: 52px;
+  cursor: pointer;
+  transition: border-color 0.2s linear 0s;
+  font-size: 15px;
+  border-radius: 25px;
+  margin-top: auto;
+  min-width: 200px;
+}
+button.homePage__WatchNowButton-sc-4qvmg-7.jqiryo {
+  border: 1px solid rgb(58, 181, 74);
+  color: rgb(58, 181, 74);
+  padding: 0px 42px;
+  background: none;
+  line-height: 52px;
+  cursor: pointer;
+  transition: border-color 0.2s linear 0s;
+  font-size: 15px;
+  border-radius: 25px;
+  margin-top: auto;
+}
+span.homePage__WatchNow-sc-4qvmg-9.fgIzGg {
+  color: rgb(58, 181, 74);
+  padding: 8px;
+}
+html,
+body {
+  font-family: SC Sans Web, SCSansRegular, Helvetica, Arial, sans-serif !important;
+}
+section.featureMedium {
+  display: flex;
+}
